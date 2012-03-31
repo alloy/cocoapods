@@ -1,3 +1,0 @@
-platform :ios
-
-dependency 'MGSplitViewController', '1.0.0'
